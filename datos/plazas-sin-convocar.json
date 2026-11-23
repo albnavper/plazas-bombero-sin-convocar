@@ -1,9 +1,9 @@
 {
  "fuente": "https://ojodefuego.com/lo-que-viene",
- "actualizado_en_la_web": "2026-11-16",
- "generado": "2026-11-16",
+ "actualizado_en_la_web": "2026-11-20",
+ "generado": "2026-11-23",
  "licencia": "CC BY 4.0 · Ojo de Fuego (ojodefuego.com)",
- "plazas": 719,
+ "plazas": 684,
  "ofertas": 37,
  "filas": [
   {
@@ -172,39 +172,6 @@
    "boletin_url": "https://dogv.gva.es/datos/2025/07/22/pdf/2025_25461_es.pdf"
   },
   {
-   "comunidad": "Región de Murcia",
-   "lugar": "Región de Murcia · Consorcio",
-   "organismo": "Consorcio Provincial de Bomberos de Murcia",
-   "categoria": "Bombero-conductor especialista (C1)",
-   "oep_anio": 2025,
-   "plazas_sin_convocar": 42,
-   "debe_convocarse_antes": "2028-12-30",
-   "boletin": "2025-6454",
-   "boletin_url": "https://www.borm.es/services/anuncio/ano/2025/numero/6454/pdf"
-  },
-  {
-   "comunidad": "Región de Murcia",
-   "lugar": "Cartagena · Ayuntamiento",
-   "organismo": "Servicio de Extinción de Incendios y Salvamento (SEIS) de Cartagena",
-   "categoria": "Bombero Especial (C1)",
-   "oep_anio": 2026,
-   "plazas_sin_convocar": 21,
-   "debe_convocarse_antes": "2029-10-17",
-   "boletin": "2026-5055",
-   "boletin_url": "https://www.borm.es/services/anuncio/ano/2026/numero/5055/pdf"
-  },
-  {
-   "comunidad": "Región de Murcia",
-   "lugar": "Murcia · Ayuntamiento",
-   "organismo": "Servicio de Extinción de Incendios y Salvamento (SEIS) del Ayuntamiento de Murcia",
-   "categoria": "Bombero/a (C2)",
-   "oep_anio": 2023,
-   "plazas_sin_convocar": 11,
-   "debe_convocarse_antes": "2027-01-31",
-   "boletin": "2024-461",
-   "boletin_url": "https://www.borm.es/services/anuncio/ano/2024/numero/461/pdf"
-  },
-  {
    "comunidad": "Castilla y León",
    "lugar": "Palencia · Diputación",
    "organismo": "Servicio de Prevención, Extinción de Incendios y Salvamento de la Diputación de Palencia (red de Parques Comarcales de Bomberos)",
@@ -302,6 +269,39 @@
    "debe_convocarse_antes": "2029-01-23",
    "boletin": "BOCYL nº 15, pág. 302",
    "boletin_url": "https://bocyl.jcyl.es/boletines/2026/01/23/pdf/BOCYL-D-23012026-15-29.pdf"
+  },
+  {
+   "comunidad": "Región de Murcia",
+   "lugar": "Cartagena · Ayuntamiento",
+   "organismo": "Servicio de Extinción de Incendios y Salvamento (SEIS) de Cartagena",
+   "categoria": "Bombero Especial (C1)",
+   "oep_anio": 2026,
+   "plazas_sin_convocar": 21,
+   "debe_convocarse_antes": "2029-10-17",
+   "boletin": "2026-5055",
+   "boletin_url": "https://www.borm.es/services/anuncio/ano/2026/numero/5055/pdf"
+  },
+  {
+   "comunidad": "Región de Murcia",
+   "lugar": "Murcia · Ayuntamiento",
+   "organismo": "Servicio de Extinción de Incendios y Salvamento (SEIS) del Ayuntamiento de Murcia",
+   "categoria": "Bombero/a (C2)",
+   "oep_anio": 2023,
+   "plazas_sin_convocar": 11,
+   "debe_convocarse_antes": "2027-01-31",
+   "boletin": "2024-461",
+   "boletin_url": "https://www.borm.es/services/anuncio/ano/2024/numero/461/pdf"
+  },
+  {
+   "comunidad": "Región de Murcia",
+   "lugar": "Región de Murcia · Consorcio",
+   "organismo": "Consorcio Provincial de Bomberos de Murcia",
+   "categoria": "Bombero-conductor especialista (C1)",
+   "oep_anio": 2025,
+   "plazas_sin_convocar": 7,
+   "debe_convocarse_antes": "2028-12-30",
+   "boletin": "2025-6454",
+   "boletin_url": "https://www.borm.es/services/anuncio/ano/2025/numero/6454/pdf"
   },
   {
    "comunidad": "Castilla-La Mancha",
