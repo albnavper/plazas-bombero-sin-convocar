@@ -1,0 +1,30 @@
+{
+  "title": "Plazas de bombero aprobadas y sin convocar en España",
+  "description": "<p>Plazas de bombero (turno libre) aprobadas en ofertas de empleo público de ayuntamientos, diputaciones y consorcios de España que aún no tienen convocatoria publicada. Cada fila indica organismo, año de la oferta, plazas pendientes, fecha límite para convocarlas (art. 70 del EBEP: tres años) y el boletín oficial de origen. Se regenera cada semana a partir del radar de <a href=\"https://ojodefuego.com/lo-que-viene\">Ojo de Fuego</a>.</p>",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Navarro Pérez, Alberto",
+      "affiliation": "Ojo de Fuego"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "spa",
+  "keywords": [
+    "bomberos",
+    "empleo público",
+    "oferta de empleo público",
+    "oposiciones",
+    "datos abiertos",
+    "España",
+    "firefighters",
+    "public employment"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://ojodefuego.com/lo-que-viene",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ]
+}
